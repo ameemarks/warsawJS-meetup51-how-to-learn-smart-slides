@@ -1,6 +1,7 @@
 # WarsawJS Meetup: Slides template
 
-:clipboard: Slides for `WarsawJS Meetup`
+:clipboard: Slides for `WarsawJS Meetup #51`
+Presentation [PL]: Ucz się mądrze! (`How to learn smart`)
 
 ## Preview
 
